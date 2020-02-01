@@ -1,0 +1,6 @@
+# Pamle
+Simples intérprete de expressões matemáticas com suporte a variáveis e listas. Teste sem baixar pelo link https://pamle.yanncabral.repl.run/.
+
+Operadores suportados: +, -, *, /, //, %, **, ^, |, &, not, etc...
+Funções suportadas: sin, cos, tan, sinh, cosh, tanh, exp, etc...
+Constantes pré-definidas: pi, e.
